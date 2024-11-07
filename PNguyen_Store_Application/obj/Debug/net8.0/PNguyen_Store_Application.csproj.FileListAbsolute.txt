@@ -1,0 +1,14 @@
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/bin/Debug/net8.0/PNguyen_Store_Application
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/bin/Debug/net8.0/PNguyen_Store_Application.deps.json
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/bin/Debug/net8.0/PNguyen_Store_Application.runtimeconfig.json
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/bin/Debug/net8.0/PNguyen_Store_Application.dll
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/bin/Debug/net8.0/PNguyen_Store_Application.pdb
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/PNguyen_Store_Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/PNguyen_Store_Application.AssemblyInfoInputs.cache
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/PNguyen_Store_Application.AssemblyInfo.cs
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/PNguyen_Store_Application.csproj.CoreCompileInputs.cache
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/PNguyen_Store_Application.dll
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/refint/PNguyen_Store_Application.dll
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/PNguyen_Store_Application.pdb
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/PNguyen_Store_Application.genruntimeconfig.cache
+/Users/phinguyen/Library/CloudStorage/OneDrive-ColumbiaCollegeChicago/PNguyen_Store_Application/obj/Debug/net8.0/ref/PNguyen_Store_Application.dll
