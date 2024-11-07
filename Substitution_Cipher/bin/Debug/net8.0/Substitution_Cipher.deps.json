@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Substitution_Cipher/1.0.0": {
+        "runtime": {
+          "Substitution_Cipher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Substitution_Cipher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
