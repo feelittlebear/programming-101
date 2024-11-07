@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Trivia_Advanced/1.0.0": {
+        "runtime": {
+          "Trivia_Advanced.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trivia_Advanced/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
